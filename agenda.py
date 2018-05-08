@@ -1,5 +1,23 @@
 agenda = {}
 
+
+def agregar_contacto():
+    """"Funcion para agregar contacto"""
+
+def remover_contacto():
+    """Funcion para eliminar contacto"""
+
+def actualizar_contacto():
+    """Funcion para actualizar contacto"""
+
+def ver_contacto():
+    """Funcion para ver contacto"""
+
+def ver_todos():
+    """Funcion para ver todos los contacto"""
+
+    
+
 print('Bienvenido a la agenda')
 while True:
     print('1 - Agregar contacto')
